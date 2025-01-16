@@ -1,0 +1,2 @@
+# Ada Range Check Bug
+This repository demonstrates a common error in Ada programming: an incorrect range check. The `Check_Range` function contains a flawed range check that doesn't correctly verify if a number falls within the specified range. The solution provides the corrected code.
